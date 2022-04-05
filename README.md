@@ -5,7 +5,7 @@
 
 #### 安装教程
 
-下载[https://gitee.com/judyinredhat/signin/attach_files/1017075/download/signin.zip](https://gitee.com/judyinredhat/signin/attach_files/1017075/download/signin.zip)中的压缩包并且解压  
+下载[https://github.com/JudyInRedHat/signin/releases/download/New/signin.zip](https://github.com/JudyInRedHat/signin/releases/download/New/signin.zip)中的压缩包并且解压  
 解压后将此目录添加到**path**环境变量中即可  
 如果在cmd中输入signin有签到的提示表示成功  
 示例：
